@@ -1,4 +1,6 @@
-//external css
+//external 
+//when targeting the class,we 
+//use (.)followed by the class name.
 
 body{
     background-color: black;
