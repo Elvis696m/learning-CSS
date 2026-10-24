@@ -1,1 +1,23 @@
+body{
+    background-image: url('mylo.jpeg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
 
+}
+h1{
+      background:linear-gradient( skyblue, lightgreen) ;
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+
+}
+p{
+    background:linear-gradient(to left, skyblue, lightgreen) ;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
+
+//the background-size: cover; makes the image adapt acording to 
+//the size of the tab;
