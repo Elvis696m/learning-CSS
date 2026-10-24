@@ -1,3 +1,5 @@
+//border radius is used to
+// make the corners round
 h1{
     border-top-style:dotted ;
     border-bottom-style:dotted ;
