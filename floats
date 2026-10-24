@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="box">Box1</div>
+    <div class="box">Box2</div>
+    <div class="box">Box3</div>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Officiis maxime consequatur iste maiores voluptas voluptatem, tenetur harum pariatur explicabo ipsa, non debitis assumenda aliquid neque expedita culpa labore ab ex?</p>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Officiis maxime consequatur iste maiores voluptas voluptatem, tenetur harum pariatur explicabo ipsa, non debitis assumenda aliquid neque expedita culpa labore ab ex?</p>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Officiis maxime consequatur iste maiores voluptas voluptatem, tenetur harum pariatur explicabo ipsa, non debitis assumenda aliquid neque expedita culpa labore ab ex?</p>
+</body>
+</html>
+
+*/
+CSS
+*/
+.box{
+    width: 100px;
+    height: 100px;
+    border: 1px solid;
+    font-size: 30px;
+    text-align: center;
+    background: skyblue;
+    margin-left: 30px;
+    float: left;
+}
